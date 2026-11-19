@@ -72,7 +72,7 @@
 <img width="1011" height="602" alt="image" src="https://github.com/user-attachments/assets/513ce588-7815-448c-905b-433d98671b7e" />
 
 ### 5. Ảnh màn hình kiểm tra lỗi và xử lý giao dịch
-![Kiểm tra lỗi giao dịch](images/15_karaoke_error.png)
+![Kiểm tra lỗi giao dịch]<img width="1011" height="598" alt="image" src="https://github.com/user-attachments/assets/7b044671-cede-4fd6-b4b4-37efc61ebb46" />
 
 ---
 
