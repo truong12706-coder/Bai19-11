@@ -31,6 +31,9 @@
 ### 4. Ảnh màn hình cảnh báo trễ hạn và thống kê
 ![Báo cáo thống kê]<img width="912" height="567" alt="image" src="https://github.com/user-attachments/assets/d8cae5a6-984c-4c68-8e22-2fde13dc65b1" />
 
+5. Ảnh màn hình kiểm tra lỗi và xử lý dữ liệu
+   <img width="906" height="572" alt="image" src="https://github.com/user-attachments/assets/701927f8-e4e0-49a2-b21d-a83acb00fbc3" />
+
 
 ## BÀI 6.4: HỆ THỐNG QUẢN LÝ GARAGE VÀ BẢO DƯỠNG XE Ô TÔ
 **(GARAGE MANAGEMENT SYSTEM)**
@@ -50,6 +53,11 @@
 
 ### 4. Ảnh màn hình thanh toán và xuất hóa đơn
 ![Thanh toán và hóa đơn]<img width="939" height="570" alt="image" src="https://github.com/user-attachments/assets/3660a7d3-cc4b-4fa8-9772-b4b5c290606c" />
+
+5. Ảnh màn hình kiểm tra lỗi và SqlTransaction Rollback
+
+<img width="946" height="577" alt="image" src="https://github.com/user-attachments/assets/f834d03c-2565-4790-95ee-898b47b7fceb" />
+
 
 ---
 
