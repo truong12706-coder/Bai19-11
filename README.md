@@ -36,13 +36,16 @@
 **(GARAGE MANAGEMENT SYSTEM)**
 
 ### 1. Ảnh màn hình giao diện chính
-![Giao diện chính Garage](images/06_garage_main.png)
+![Giao diện chính Garage]<img width="942" height="582" alt="Ảnh chụp màn hình 2026-11-19 140647" src="https://github.com/user-attachments/assets/12909e0c-b79e-46c8-8a4a-c02c099c7e33" />
+
 
 ### 2. Ảnh màn hình quản lý khách hàng, xe và phụ tùng
-![Quản lý khách hàng và phụ tùng](images/07_garage_crud.png)
+![Quản lý khách hàng và phụ tùng]<img width="937" height="575" alt="Ảnh chụp màn hình 2026-11-19 140741" src="https://github.com/user-attachments/assets/7d43dadb-7f3b-4272-8678-dc03e4886e35" />
+
 
 ### 3. Ảnh màn hình lập phiếu sửa chữa và thay thế phụ tùng
-![Phiếu sửa chữa](images/08_repair_transaction.png)
+![Phiếu sửa chữa]<img width="942" height="582" alt="Ảnh chụp màn hình 2026-11-19 140647" src="https://github.com/user-attachments/assets/bb48e9d6-c489-4ae3-b990-6f0f6f264359" />
+
 
 ### 4. Ảnh màn hình thanh toán và xuất hóa đơn
 ![Thanh toán và hóa đơn](images/09_invoice.png)
