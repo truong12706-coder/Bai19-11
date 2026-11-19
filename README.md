@@ -1,4 +1,4 @@
- /># BÁO CÁO BÀI TẬP / ĐỒ ÁN
+# BÁO CÁO BÀI TẬP / ĐỒ ÁN
 
 ## THÔNG TIN SINH VIÊN
 
@@ -16,15 +16,15 @@
 **(PROJECT & TASK MANAGEMENT)**
 
 ### 1. Ảnh màn hình giao diện chính
-![Giao diện chính]<img width="906" height="562" alt="Ảnh chụp màn hình 2026-11-19 125914" src="https://github.com/user-attachments/assets/c46d80ab-ff7f-4130-a18c-4e279cbd7566" />
+![Giao diện chính]<img width="907" height="645" alt="image" src="https://github.com/user-attachments/assets/50888fb4-abb0-4f08-9a59-85b5ded18f2d" />
 
-0
 ### 2. Ảnh màn hình quản lý dự án và công việc (CRUD)
 ![Quản lý dự án và công việc]<img width="906" height="565" alt="Ảnh chụp màn hình 2026-11-19 134956" src="https://github.com/user-attachments/assets/04c3495a-29c8-4b74-96fa-c5cd3f27a700" />
 
 
 ### 3. Ảnh màn hình phân công công việc và cập nhật tiến độ
-![Phân công và cập nhật tiến độ]<img width="902" height="565" alt="Ảnh chụp màn hình 2026-11-19 135142" src="https://github.com/user-attachments/assets/a8685700-893f-4926-a95c-2fa79661166f" />
+![Phân công và cập nhật tiến độ]<img width="912" height="526" alt="Ảnh chụp màn hình 2026-11-19 135913" src="https://github.com/user-attachments/assets/aba4f58c-f610-4b31-b124-0417c9a89ac4" />
+
 
 
 ### 4. Ảnh màn hình cảnh báo trễ hạn và thống kê
