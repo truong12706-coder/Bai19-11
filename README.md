@@ -44,7 +44,7 @@
 
 
 ### 3. Ảnh màn hình lập phiếu sửa chữa và thay thế phụ tùng
-![Phiếu sửa chữa]<img width="906" height="563" alt="Ảnh chụp màn hình 2026-11-19 125722" src="https://github.com/user-attachments/assets/5926b3af-70bb-4250-ac27-dfdc9c653ff7" />
+![Phiếu sửa chữa]![Uploading image.png…]()
 
 
 ### 4. Ảnh màn hình thanh toán và xuất hóa đơn
