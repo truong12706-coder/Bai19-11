@@ -16,7 +16,8 @@
 **(PROJECT & TASK MANAGEMENT)**
 
 ### 1. Ảnh màn hình giao diện chính
-![Giao diện chính](images/01_main_screen.png)
+![Giao diện chính](<img width="906" height="562" alt="image" src="https://github.com/user-attachments/assets/0329a7b0-9d11-497b-a1d7-975d2026237e" />
+)
 
 ### 2. Ảnh màn hình quản lý dự án và công việc (CRUD)
 ![Quản lý dự án và công việc](images/02_crud_screen.png)
