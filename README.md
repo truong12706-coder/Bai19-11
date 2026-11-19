@@ -1,4 +1,4 @@
-# BÁO CÁO BÀI TẬP / ĐỒ ÁN
+<img width="906" height="565" alt="Ảnh chụp màn hình 2026-11-19 134956" src="https://github.com/user-attachments/assets/9f221e59-1278-4376-a199-ca710168366a" /># BÁO CÁO BÀI TẬP / ĐỒ ÁN
 
 ## THÔNG TIN SINH VIÊN
 
@@ -20,9 +20,8 @@
 
 0
 ### 2. Ảnh màn hình quản lý dự án và công việc (CRUD)
-![Quản lý dự án và công việc](![Uploading Ảnh chụp màn hình 2026-11-19 134814.png…]()
+![Quản lý dự án và công việc]<img width="906" height="565" alt="Ảnh chụp màn hình 2026-11-19 134956" src="https://github.com/user-attachments/assets/04c3495a-29c8-4b74-96fa-c5cd3f27a700" />
 
-)
 
 ### 3. Ảnh màn hình phân công công việc và cập nhật tiến độ
 ![Phân công và cập nhật tiến độ](images/03_task_management.png)
