@@ -1,0 +1,159 @@
+# BÁO CÁO BÀI TẬP / ĐỒ ÁN
+
+## THÔNG TIN SINH VIÊN
+
+- **Họ và tên:** Đinh Xuân Trường
+- **Mã số sinh viên:** 24810310234
+- **Lớp:** D19CNPM3
+- **Tên môn học:** Lập trình .NET
+- **Tên bài tập:** Bài 6.3 – 6.5: Hệ thống quản lý công việc & tiến độ dự án, quản lý Garage ô tô và quản lý đặt phòng Karaoke.
+
+---
+
+# KẾT QUẢ THỰC HÀNH
+
+## BÀI 6.3: HỆ THỐNG QUẢN LÝ CÔNG VIỆC & TIẾN ĐỘ DỰ ÁN
+**(PROJECT & TASK MANAGEMENT)**
+
+### 1. Ảnh màn hình giao diện chính
+![Giao diện chính](images/01_main_screen.png)
+
+### 2. Ảnh màn hình quản lý dự án và công việc (CRUD)
+![Quản lý dự án và công việc](images/02_crud_screen.png)
+
+### 3. Ảnh màn hình phân công công việc và cập nhật tiến độ
+![Phân công và cập nhật tiến độ](images/03_task_management.png)
+
+### 4. Ảnh màn hình cảnh báo trễ hạn và thống kê
+![Báo cáo thống kê](images/04_report_screen.png)
+
+### 5. Ảnh màn hình kiểm tra lỗi và xử lý dữ liệu
+![Kiểm tra lỗi](images/05_error_handling.png)
+
+---
+
+## BÀI 6.4: HỆ THỐNG QUẢN LÝ GARAGE VÀ BẢO DƯỠNG XE Ô TÔ
+**(GARAGE MANAGEMENT SYSTEM)**
+
+### 1. Ảnh màn hình giao diện chính
+![Giao diện chính Garage](images/06_garage_main.png)
+
+### 2. Ảnh màn hình quản lý khách hàng, xe và phụ tùng
+![Quản lý khách hàng và phụ tùng](images/07_garage_crud.png)
+
+### 3. Ảnh màn hình lập phiếu sửa chữa và thay thế phụ tùng
+![Phiếu sửa chữa](images/08_repair_transaction.png)
+
+### 4. Ảnh màn hình thanh toán và xuất hóa đơn
+![Thanh toán và hóa đơn](images/09_invoice.png)
+
+### 5. Ảnh màn hình kiểm tra lỗi và SqlTransaction Rollback
+![Kiểm tra lỗi Transaction](images/10_garage_error.png)
+
+---
+
+## BÀI 6.5: HỆ THỐNG QUẢN LÝ ĐẶT PHÒNG & DỊCH VỤ KARAOKE
+**(KARAOKE MANAGEMENT SYSTEM)**
+
+### 1. Ảnh màn hình giao diện chính và sơ đồ phòng hát
+![Giao diện phòng hát](images/11_karaoke_main.png)
+
+### 2. Ảnh màn hình quản lý dịch vụ và đồ uống
+![Quản lý dịch vụ](images/12_karaoke_service.png)
+
+### 3. Ảnh màn hình mở phòng và gọi dịch vụ
+![Mở phòng và gọi dịch vụ](images/13_karaoke_booking.png)
+
+### 4. Ảnh màn hình tính tiền và thanh toán hóa đơn
+![Thanh toán hóa đơn](images/14_karaoke_payment.png)
+
+### 5. Ảnh màn hình kiểm tra lỗi và xử lý giao dịch
+![Kiểm tra lỗi giao dịch](images/15_karaoke_error.png)
+
+---
+
+# CẤU TRÚC THƯ MỤC DỰ ÁN
+
+```text
+ProjectName/
+│
+├── Database/
+│   └── ScriptDB.sql
+│
+├── ProjectTaskManagement/
+│   ├── DTO/
+│   ├── DAL/
+│   ├── BUS/
+│   ├── GUI/
+│   ├── App.config
+│   └── Program.cs
+│
+├── GarageManagement/
+│   ├── DTO/
+│   ├── DAL/
+│   ├── BUS/
+│   ├── GUI/
+│   ├── App.config
+│   └── Program.cs
+│
+├── KaraokeManagement/
+│   ├── DTO/
+│   ├── DAL/
+│   ├── BUS/
+│   ├── GUI/
+│   ├── App.config
+│   └── Program.cs
+│
+├── images/
+│   ├── 01_main_screen.png
+│   ├── 02_crud_screen.png
+│   ├── 03_task_management.png
+│   ├── 04_report_screen.png
+│   ├── 05_error_handling.png
+│   ├── 06_garage_main.png
+│   ├── 07_garage_crud.png
+│   ├── 08_repair_transaction.png
+│   ├── 09_invoice.png
+│   ├── 10_garage_error.png
+│   ├── 11_karaoke_main.png
+│   ├── 12_karaoke_service.png
+│   ├── 13_karaoke_booking.png
+│   ├── 14_karaoke_payment.png
+│   └── 15_karaoke_error.png
+│
+├── README.md
+└── ProjectName.sln
+```
+
+---
+
+# CÔNG NGHỆ SỬ DỤNG
+
+- Ngôn ngữ lập trình: C#
+- Nền tảng: Windows Forms (.NET)
+- Cơ sở dữ liệu: Microsoft SQL Server
+- Công nghệ truy cập dữ liệu: ADO.NET
+- Kiến trúc phần mềm: 3-Tier Architecture (DTO, DAL, BUS, GUI)
+- Giao dịch dữ liệu: SqlTransaction
+- Truy vấn dữ liệu: SqlCommand, SqlDataReader, SqlDataAdapter, DataTable
+- Quản lý mã nguồn: Git và GitHub
+
+---
+
+# KẾT LUẬN
+
+Thông qua các bài tập 6.3, 6.4 và 6.5, sinh viên đã vận dụng kiến thức lập trình .NET để xây dựng các ứng dụng quản lý thực tế bằng C# Windows Forms và SQL Server.
+
+Các hệ thống được xây dựng nhằm thực hành:
+- Thiết kế và quản lý cơ sở dữ liệu SQL Server.
+- Xây dựng ứng dụng theo kiến trúc 3-Tier.
+- Thực hiện các chức năng thêm, sửa, xóa và tìm kiếm dữ liệu.
+- Quản lý công việc, tiến độ và phân công nhân sự.
+- Quản lý sửa chữa xe và phụ tùng trong Garage.
+- Quản lý phòng hát, dịch vụ và thanh toán Karaoke.
+- Sử dụng SqlTransaction để đảm bảo tính nhất quán dữ liệu.
+- Kiểm tra dữ liệu đầu vào và xử lý ngoại lệ.
+
+**Sinh viên:** Đinh Xuân Trường
+
+**Lớp:** D19CNPM3
