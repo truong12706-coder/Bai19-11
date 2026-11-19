@@ -57,16 +57,19 @@
 **(KARAOKE MANAGEMENT SYSTEM)**
 
 ### 1. Ảnh màn hình giao diện chính và sơ đồ phòng hát
-![Giao diện phòng hát](images/11_karaoke_main.png)
+![Giao diện phòng hát]<img width="1010" height="598" alt="image" src="https://github.com/user-attachments/assets/c2c2fed2-3d71-4457-956a-d2128e86264c" />
 
 ### 2. Ảnh màn hình quản lý dịch vụ và đồ uống
-![Quản lý dịch vụ](images/12_karaoke_service.png)
+![Quản lý dịch vụ]<img width="1015" height="602" alt="image" src="https://github.com/user-attachments/assets/52960f89-c1fc-472f-9723-b4702d21f198" />
+
 
 ### 3. Ảnh màn hình mở phòng và gọi dịch vụ
-![Mở phòng và gọi dịch vụ](images/13_karaoke_booking.png)
+![Mở phòng và gọi dịch vụ]<img width="1011" height="602" alt="image" src="https://github.com/user-attachments/assets/230a72b9-7925-40b9-be3b-57ee139f00aa" />
+
 
 ### 4. Ảnh màn hình tính tiền và thanh toán hóa đơn
-![Thanh toán hóa đơn](images/14_karaoke_payment.png)
+![Thanh toán hóa đơn]<img width="1006" height="603" alt="image" src="https://github.com/user-attachments/assets/7ed71ad4-7eb1-4e7c-9d3e-6aa7fce91de1" />
+<img width="1011" height="602" alt="image" src="https://github.com/user-attachments/assets/513ce588-7815-448c-905b-433d98671b7e" />
 
 ### 5. Ảnh màn hình kiểm tra lỗi và xử lý giao dịch
 ![Kiểm tra lỗi giao dịch](images/15_karaoke_error.png)
