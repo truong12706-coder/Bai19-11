@@ -44,14 +44,11 @@
 
 
 ### 3. Ảnh màn hình lập phiếu sửa chữa và thay thế phụ tùng
-![Phiếu sửa chữa]<img width="942" height="582" alt="Ảnh chụp màn hình 2026-11-19 140647" src="https://github.com/user-attachments/assets/bb48e9d6-c489-4ae3-b990-6f0f6f264359" />
+![Phiếu sửa chữa]<img width="906" height="563" alt="Ảnh chụp màn hình 2026-11-19 125722" src="https://github.com/user-attachments/assets/5926b3af-70bb-4250-ac27-dfdc9c653ff7" />
 
 
 ### 4. Ảnh màn hình thanh toán và xuất hóa đơn
-![Thanh toán và hóa đơn](images/09_invoice.png)
-
-### 5. Ảnh màn hình kiểm tra lỗi và SqlTransaction Rollback
-![Kiểm tra lỗi Transaction](images/10_garage_error.png)
+![Thanh toán và hóa đơn]<img width="939" height="570" alt="image" src="https://github.com/user-attachments/assets/3660a7d3-cc4b-4fa8-9772-b4b5c290606c" />
 
 ---
 
