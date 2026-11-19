@@ -20,7 +20,8 @@
 
 0
 ### 2. Ảnh màn hình quản lý dự án và công việc (CRUD)
-![Quản lý dự án và công việc](images/02_crud_screen.png)
+![Quản lý dự án và công việc](![Uploading image.png…]()
+)
 
 ### 3. Ảnh màn hình phân công công việc và cập nhật tiến độ
 ![Phân công và cập nhật tiến độ](images/03_task_management.png)
