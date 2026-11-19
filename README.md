@@ -19,7 +19,8 @@
 ![Giao diện chính]<img width="907" height="645" alt="image" src="https://github.com/user-attachments/assets/50888fb4-abb0-4f08-9a59-85b5ded18f2d" />
 
 ### 2. Ảnh màn hình quản lý dự án và công việc (CRUD)
-![Quản lý dự án và công việc]<img width="906" height="565" alt="Ảnh chụp màn hình 2026-11-19 134956" src="https://github.com/user-attachments/assets/04c3495a-29c8-4b74-96fa-c5cd3f27a700" />
+![Quản lý dự án và công việc]<img width="907" height="530" alt="image" src="https://github.com/user-attachments/assets/d3b390bf-66cd-48b1-8537-c0f6c0b7dffb" />
+
 
 
 ### 3. Ảnh màn hình phân công công việc và cập nhật tiến độ
