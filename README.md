@@ -1,4 +1,4 @@
-<img width="906" height="565" alt="Ảnh chụp màn hình 2026-11-19 134956" src="https://github.com/user-attachments/assets/9f221e59-1278-4376-a199-ca710168366a" /># BÁO CÁO BÀI TẬP / ĐỒ ÁN
+ /># BÁO CÁO BÀI TẬP / ĐỒ ÁN
 
 ## THÔNG TIN SINH VIÊN
 
@@ -24,15 +24,12 @@
 
 
 ### 3. Ảnh màn hình phân công công việc và cập nhật tiến độ
-![Phân công và cập nhật tiến độ](images/03_task_management.png)
+![Phân công và cập nhật tiến độ]<img width="902" height="565" alt="Ảnh chụp màn hình 2026-11-19 135142" src="https://github.com/user-attachments/assets/a8685700-893f-4926-a95c-2fa79661166f" />
+
 
 ### 4. Ảnh màn hình cảnh báo trễ hạn và thống kê
-![Báo cáo thống kê](images/04_report_screen.png)
+![Báo cáo thống kê]<img width="912" height="567" alt="image" src="https://github.com/user-attachments/assets/d8cae5a6-984c-4c68-8e22-2fde13dc65b1" />
 
-### 5. Ảnh màn hình kiểm tra lỗi và xử lý dữ liệu
-![Kiểm tra lỗi](images/05_error_handling.png)
-
----
 
 ## BÀI 6.4: HỆ THỐNG QUẢN LÝ GARAGE VÀ BẢO DƯỠNG XE Ô TÔ
 **(GARAGE MANAGEMENT SYSTEM)**
